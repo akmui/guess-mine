@@ -1,3 +1,4 @@
+@import "body";
 $color:red;
 
 @keyframes sexy {
@@ -10,6 +11,5 @@ $color:red;
 }
 
 body{
-    background-color: $color;
     position: sticky;
 }
