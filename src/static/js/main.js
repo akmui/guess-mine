@@ -48,7 +48,7 @@ require("./socket");
 require("./login");
 
 require("./chat");
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImZha2VfZmQ2YzUxNzEuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7QUFBQTs7QUFDQTs7QUFDQSIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBcIi4vc29ja2V0XCI7XG5pbXBvcnQgXCIuL2xvZ2luXCI7XG5pbXBvcnQgXCIuL2NoYXRcIjsiXX0=
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImZha2VfYTg3N2M3YWIuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7QUFBQTs7QUFDQTs7QUFDQSIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBcIi4vc29ja2V0XCI7XG5pbXBvcnQgXCIuL2xvZ2luXCI7XG5pbXBvcnQgXCIuL2NoYXRcIjsiXX0=
 },{"./chat":1,"./login":3,"./socket":5}],3:[function(require,module,exports){
 "use strict";
 
