@@ -1,4 +1,3 @@
-
 import { getSocket } from "./sockets";
 
 const canvas = document.getElementById("jsCanvas");
