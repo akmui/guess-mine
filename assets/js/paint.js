@@ -1,4 +1,4 @@
-import { getSocket } from "./sockets";
+import { getSocket } from "./socket";
 
 const canvas = document.getElementById("jsCanvas");
 const ctx = canvas.getContext("2d");
